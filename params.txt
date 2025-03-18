@@ -1,0 +1,5 @@
+M Best Params
+max_depth=30, n_estimators=200
+
+W Best Params
+max_depth=30, n_estimators=200
